@@ -1,0 +1,9 @@
+2022-05-22T16:14:22.851Z INFO @wdio/local-runner: Run worker command: run
+2022-05-22T16:14:23.757Z DEBUG @wdio/config:utils: Found 'ts-node' package, auto-compiling TypeScript files
+2022-05-22T16:14:24.031Z DEBUG @wdio/local-runner:utils: init remote session
+2022-05-22T16:14:25.489Z DEBUG @wdio/local-runner:utils: init remote session
+2022-05-22T16:14:25.561Z INFO devtools:puppeteer: Initiate new session using the DevTools protocol
+2022-05-22T16:14:25.562Z INFO devtools: Launch Google Chrome with flags: --enable-automation --disable-popup-blocking --disable-extensions --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-sync --metrics-recording-only --disable-default-apps --mute-audio --no-first-run --no-default-browser-check --disable-hang-monitor --disable-prompt-on-repost --disable-client-side-phishing-detection --password-store=basic --use-mock-keychain --disable-component-extensions-with-background-pages --disable-breakpad --disable-dev-shm-usage --disable-ipc-flooding-protection --disable-renderer-backgrounding --force-fieldtrials=*BackgroundTracing/default/ --enable-features=NetworkService,NetworkServiceInProcess --disable-features=site-per-process,TranslateUI,BlinkGenPropertyTrees --window-position=0,0 --window-size=1200,900
+2022-05-22T16:14:29.714Z INFO devtools: Connect Puppeteer with browser on port 49838
+2022-05-22T16:14:36.506Z INFO devtools: COMMAND deleteSession()
+2022-05-22T16:14:36.519Z INFO devtools: RESULT null

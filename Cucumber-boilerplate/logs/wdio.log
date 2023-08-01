@@ -1,0 +1,17 @@
+2022-05-22T16:14:21.569Z INFO @wdio/cli:launcher: Run onPrepare hook
+2022-05-22T16:14:21.575Z INFO @wdio/cli:launcher: Run onWorkerStart hook
+2022-05-22T16:14:21.575Z INFO @wdio/cli:launcher: Run onWorkerStart hook
+2022-05-22T16:14:21.576Z INFO @wdio/cli:launcher: Run onWorkerStart hook
+2022-05-22T16:14:21.577Z INFO @wdio/local-runner: Start worker 0-0 with arg: run,wdio.conf.ts
+2022-05-22T16:14:21.592Z INFO @wdio/local-runner: Start worker 0-1 with arg: run,wdio.conf.ts
+2022-05-22T16:14:21.598Z INFO @wdio/local-runner: Start worker 0-2 with arg: run,wdio.conf.ts
+2022-05-22T16:14:25.817Z DEBUG @wdio/local-runner: Runner 0-0 finished with exit code 0
+2022-05-22T16:14:25.818Z INFO @wdio/cli: [0-0] SKIPPED in chrome - /src/features/home.feature
+2022-05-22T16:14:25.819Z INFO @wdio/cli:launcher: Run onWorkerEnd hook
+2022-05-22T16:14:36.658Z DEBUG @wdio/local-runner: Runner 0-1 finished with exit code 1
+2022-05-22T16:14:36.658Z INFO @wdio/cli:launcher: Run onWorkerEnd hook
+2022-05-22T16:14:37.146Z DEBUG @wdio/local-runner: Runner 0-2 finished with exit code 1
+2022-05-22T16:14:37.146Z INFO @wdio/cli:launcher: Run onWorkerEnd hook
+2022-05-22T16:14:37.146Z INFO @wdio/cli:launcher: Run onComplete hook
+2022-05-22T16:14:37.279Z INFO @wdio/local-runner: Shutting down spawned worker
+2022-05-22T16:14:37.535Z INFO @wdio/local-runner: Waiting for 0 to shut down gracefully

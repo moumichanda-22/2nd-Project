@@ -1,0 +1,135 @@
+2022-05-22T16:14:22.833Z INFO @wdio/local-runner: Run worker command: run
+2022-05-22T16:14:23.841Z DEBUG @wdio/config:utils: Found 'ts-node' package, auto-compiling TypeScript files
+2022-05-22T16:14:24.160Z DEBUG @wdio/local-runner:utils: init remote session
+2022-05-22T16:14:25.313Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 32,
+                "column": 3
+            }
+        },
+        "message": "(32:3): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Scenario  User should be able to fill up the text box'"
+    }
+}
+2022-05-22T16:14:25.314Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 33,
+                "column": 5
+            }
+        },
+        "message": "(33:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Given I navigate to \"https://demoqa.com/text-box\" site'"
+    }
+}
+2022-05-22T16:14:25.314Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 34,
+                "column": 5
+            }
+        },
+        "message": "(34:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'When I fill up the form with initials data'"
+    }
+}
+2022-05-22T16:14:25.314Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 35,
+                "column": 7
+            }
+        },
+        "message": "(35:7): expected: #TagLine, #RuleLine, #Comment, #Empty, got '| moumi | m@gmail.com | Nyc | Bangladesh |'"
+    }
+}
+2022-05-22T16:14:25.314Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 36,
+                "column": 5
+            }
+        },
+        "message": "(36:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'And I click on the submit button'"
+    }
+}
+2022-05-22T16:14:25.314Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 40,
+                "column": 3
+            }
+        },
+        "message": "(40:3): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Scenario Outline: User should be able to perform all the functions in check box category'"
+    }
+}
+2022-05-22T16:14:25.314Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 41,
+                "column": 5
+            }
+        },
+        "message": "(41:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Given I navigate to \"https://demoqa.com/checkbox\" site'"
+    }
+}
+2022-05-22T16:14:25.315Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 42,
+                "column": 5
+            }
+        },
+        "message": "(42:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'When I click on the dropdown bar'"
+    }
+}
+2022-05-22T16:14:25.315Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 43,
+                "column": 5
+            }
+        },
+        "message": "(43:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'And I choose any option\"<option>\"'"
+    }
+}
+2022-05-22T16:14:25.315Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 44,
+                "column": 5
+            }
+        },
+        "message": "(44:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Then The selected option message will print\"<message>\"'"
+    }
+}
+2022-05-22T16:14:25.315Z DEBUG CucumberEventListener: Unknown envelope received: {
+    "parseError": {
+        "source": {
+            "uri": "/Users/moumi/Desktop/cucumber-boilerplate/src/features/home.feature",
+            "location": {
+                "line": 45,
+                "column": 5
+            }
+        },
+        "message": "(45:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Examples:'"
+    }
+}
